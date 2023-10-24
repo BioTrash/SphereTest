@@ -1,0 +1,45 @@
+{
+	"version": 1,
+	"changelists": [
+		{
+			"guid": "00000000000000000000000000000000",
+			"description": "Default Uncontrolled Changelist",
+			"files": [
+				"/home/rufus/Documents/Unreal Projects/SphereTest/Content/Map.uasset",
+				"/home/rufus/Documents/Unreal Projects/SphereTest/Content/Untitled_HLOD0_Instancing.uasset",
+				"/home/rufus/Documents/Unreal Projects/SphereTest/Content/__ExternalActors__/MapTest/C/03/DRUIVA68OERMGKBXXC4UAJ.uasset",
+				"/home/rufus/Documents/Unreal Projects/SphereTest/Content/__ExternalActors__/MapTest/C/YF/1BK87HGI29KSSSW0KXP5P9.uasset",
+				"/home/rufus/Documents/Unreal Projects/SphereTest/Content/__ExternalActors__/MapTest/E/KP/JY69Q8FVYVRVZNI4RBQ12W.uasset",
+				"/home/rufus/Documents/Unreal Projects/SphereTest/Content/__ExternalActors__/MapTest/B/6H/VIPYAXI8NO1BOJNB16MQNP.uasset",
+				"/home/rufus/Documents/Unreal Projects/SphereTest/Content/__ExternalActors__/MapTest/3/DA/EJLGPMOUUKQGDYCXYS4VKI.uasset",
+				"/home/rufus/Documents/Unreal Projects/SphereTest/Content/__ExternalActors__/MapTest/6/3Y/52A0M8HCJTDASY19HQ3IJX.uasset",
+				"/home/rufus/Documents/Unreal Projects/SphereTest/Content/__ExternalActors__/MapTest/3/R9/N8ZEESWLL1B3WQZRVARXMG.uasset",
+				"/home/rufus/Documents/Unreal Projects/SphereTest/Content/__ExternalActors__/MapTest/3/17/KEWPEKEZLGOPZ0XQP44HLB.uasset",
+				"/home/rufus/Documents/Unreal Projects/SphereTest/Content/__ExternalObjects__/MapTest/B/G8/9V3IJIO7PX8NQ2BZWSPJVW.uasset",
+				"/home/rufus/Documents/Unreal Projects/SphereTest/Content/__ExternalObjects__/MapTest/9/7W/ERZSKYBBNO0MKA5DFU5UP8.uasset",
+				"/home/rufus/Documents/Unreal Projects/SphereTest/Content/__ExternalObjects__/MapTest/B/ES/J8FJL0RK7ZKYOGHFQSOCAB.uasset",
+				"/home/rufus/Documents/Unreal Projects/SphereTest/Content/__ExternalObjects__/MapTest/4/IV/U1Y4MSYKE6XH51MH3CGHPD.uasset",
+				"/home/rufus/Documents/Unreal Projects/SphereTest/Content/__ExternalObjects__/MapTest/A/HQ/XEPADS94304O2K5XSG43QX.uasset",
+				"/home/rufus/Documents/Unreal Projects/SphereTest/Content/MapTest.umap",
+				"/home/rufus/Documents/Unreal Projects/SphereTest/Content/__ExternalActors__/MapTest/D/W9/3GY6VY70FYO5ZYUA5939ES.uasset",
+				"/home/rufus/Documents/Unreal Projects/SphereTest/Content/__ExternalActors__/MapTest/0/BG/KIUZ89WO0OGSVHRL7WQ5PA.uasset",
+				"/home/rufus/Documents/Unreal Projects/SphereTest/Content/Map_Inst.uasset",
+				"/home/rufus/Documents/Unreal Projects/SphereTest/Content/__ExternalActors__/MapTest/0/LZ/MUZYV8N3DD43VYJBRKHCVE.uasset",
+				"/home/rufus/Documents/Unreal Projects/SphereTest/Content/__ExternalActors__/Untitled/C/VR/0LAVFHBFPQHWQIE58DO5WF.uasset",
+				"/home/rufus/Documents/Unreal Projects/SphereTest/Content/__ExternalObjects__/Untitled/1/A5/R3LGPWB6PMS7IVCUS30K59.uasset",
+				"/home/rufus/Documents/Unreal Projects/SphereTest/Content/__ExternalObjects__/Untitled/8/WO/VW6BB6ON1O5P9P6D4TNIKG.uasset",
+				"/home/rufus/Documents/Unreal Projects/SphereTest/Content/__ExternalObjects__/Untitled/A/3B/C169NY21IYHWNPNC5K8H2X.uasset",
+				"/home/rufus/Documents/Unreal Projects/SphereTest/Content/__ExternalObjects__/Untitled/4/HU/B285Y38RMUAD5X0BOB317C.uasset",
+				"/home/rufus/Documents/Unreal Projects/SphereTest/Content/__ExternalObjects__/Untitled/B/8X/IY4PEMN9UZYDE7BEBHFW5H.uasset",
+				"/home/rufus/Documents/Unreal Projects/SphereTest/Content/__ExternalActors__/Untitled/1/JL/ZK9VQR5UXVP37810TVO5YO.uasset",
+				"/home/rufus/Documents/Unreal Projects/SphereTest/Content/__ExternalActors__/Untitled/7/L8/Y18E0V91UKJME7Q2OB3P5K.uasset",
+				"/home/rufus/Documents/Unreal Projects/SphereTest/Content/__ExternalActors__/Untitled/C/JJ/2KM5RW3RB8MQTC5Z5QAP86.uasset",
+				"/home/rufus/Documents/Unreal Projects/SphereTest/Content/__ExternalActors__/Untitled/0/YK/K6UPO231BY2JGT7QL36BEO.uasset",
+				"/home/rufus/Documents/Unreal Projects/SphereTest/Content/__ExternalActors__/Untitled/E/7X/0GCTIMNEBVF8AOXPOXOJMW.uasset",
+				"/home/rufus/Documents/Unreal Projects/SphereTest/Content/__ExternalActors__/Untitled/D/U3/F9ZCV1ZQZIEFW41ASA7N1E.uasset",
+				"/home/rufus/Documents/Unreal Projects/SphereTest/Content/__ExternalActors__/Untitled/D/FV/1KGJYU8K12XHN6XNLSYMBQ.uasset",
+				"/home/rufus/Documents/Unreal Projects/SphereTest/Content/Untitled.umap"
+			]
+		}
+	]
+}
